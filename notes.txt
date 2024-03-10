@@ -1,0 +1,15 @@
+Event -  It is something that happens on a page . 
+         For Ex: Mouse Click , Mouse hovering etc.
+
+Event Listener -  With Event Listener we can wait for a particular
+                  event to happen and then react.
+
+Advice#1 : 
+Try to do DOM Manipulations from your Own side.
+
+Math.Trunc() -  it is used for deleting the portion of a number after the decimal.
+                For Ex:  input : 5.6768  output : 5 , input : -5.1  output : -5
+
+Math.floor() - The Math.floor method rounds a number down to the nearest
+               integer that is less than or equal to the given number.
+               For Ex: input : 5.91 output : 5 , input : -5.1 output : -6
